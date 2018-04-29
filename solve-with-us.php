@@ -8,7 +8,7 @@
 </div>
 <div class="panel-content job-left-section" id="systems-engineer-section">
 	<div uk-grid>
-		<div class="uk-width-1-2">
+		<div class="uk-width-2-5" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay: 2000}">
 			<div class="job-section">
 				<p class="job-title">
 					Systems Engineer
@@ -22,7 +22,7 @@
 </div>
 <div class="panel-content job-right-section" id="network-engineer-section">
 	<div uk-grid>
-		<div class="uk-width-1-2 uk-push-1-2">
+		<div class="uk-width-2-5 uk-push-3-5" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 2000}">
 			<div class="job-section">
 				<p class="job-title">
 					Network Engineer
@@ -36,7 +36,7 @@
 </div>
 <div class="panel-content job-left-section" id="software-engineer-section">
 	<div uk-grid>
-		<div class="uk-width-1-2">
+		<div class="uk-width-2-5" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay: 2000}">
 			<div class="job-section">
 				<p class="job-title">
 					Software Engineer
@@ -50,7 +50,7 @@
 </div>
 <div class="panel-content job-right-section" id="project-manager-section">
 	<div uk-grid>
-		<div class="uk-width-1-2 uk-push-1-2">
+		<div class="uk-width-2-5 uk-push-3-5" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 2000}">
 			<div class="job-section">
 				<p class="job-title">
 					Project Manager
@@ -64,7 +64,7 @@
 </div>
 <div class="panel-content job-left-section" id="web-developer-section">
 	<div uk-grid>
-		<div class="uk-width-1-2">
+		<div class="uk-width-2-5" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay: 2000}">
 			<div class="job-section">
 				<p class="job-title">
 					Web Developer
